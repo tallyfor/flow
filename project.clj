@@ -1,4 +1,4 @@
-(defproject tallyfor/flow "4.2.0-tallyfor"
+(defproject tallyfor/flow "4.2.0-NODENAME"
   :description "Functional style of errors handling (without monads)"
   :url "https://github.com/fmnoise/flow"
   :license {:name "Eclipse Public License"
