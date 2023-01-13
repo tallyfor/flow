@@ -3,7 +3,7 @@
   :url "https://github.com/fmnoise/flow"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.8.0"]]
+  :dependencies [[org.clojure/clojure "1.9.0"]]
   :plugins [[lein-doo "0.1.11"]
             [lein-cljsbuild "1.1.8"]
             [lein-bump-version "0.1.6"]
