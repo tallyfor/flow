@@ -1,3 +1,5 @@
+> **Archived.** This repo has been migrated into the [tallyfor/balance](https://github.com/tallyfor/balance) monorepo at [`components/flow`](https://github.com/tallyfor/balance/tree/main/components/flow). All future development happens there.
+
 # flow [![CircleCI](https://circleci.com/gh/fmnoise/flow/tree/master.svg?style=svg)](https://circleci.com/gh/fmnoise/flow/tree/master) [![cljdoc badge](https://cljdoc.org/badge/fmnoise/flow)](https://cljdoc.org/d/fmnoise/flow/CURRENT)
 
 ## Usage
